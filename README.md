@@ -28,14 +28,4 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zikrillayev77&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26&count_private=true" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zikrillayev77&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26" />
-</p>
-
----
-
 > *"Code, Create, and Keep Learning."* 💻✨
