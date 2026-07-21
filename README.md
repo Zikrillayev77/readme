@@ -1,41 +1,44 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Salom,%20Dunyo!%20👋%20Men%20Abdulloh&fontSize=28&fontColor=fff&animation=fadeIn&fontAlignY=38" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hello,%20World!%20👋%20I'm%20Abdulloh&fontSize=30&fontColor=fff&animation=fadeIn&fontAlignY=38" />
 </div>
 
-<h3 align="center">Frontend Dasturchi | Coddycamp Talabasi 💻</h3>
+<h3 align="center">🚀 Frontend Developer | Coddycamp Student</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Zikrillayev77&color=blueviolet&style=flat-square&label=Profilga+Tashriflar" alt="Zikrillayev77" />
-  <img src="https://img.shields.io/badge/Yoshim-14-cyan?style=flat-square" alt="Age" />
-  <img src="https://img.shields.io/badge/Tajriba-7%20oy-purple?style=flat-square" alt="Experience" />
+  <img src="https://komarev.com/ghpvc/?username=Zikrillayev77&color=blueviolet&style=flat-square&label=Profile+Views" alt="Zikrillayev77" />
+  <img src="https://img.shields.io/badge/Age-14-cyan?style=flat-square&logo=ghost" alt="Age" />
+  <img src="https://img.shields.io/badge/Experience-7%20Months-purple?style=flat-square&logo=codeforces" alt="Experience" />
+  <img src="https://img.shields.io/badge/Status-Learning%20%26%20Building-blue?style=flat-square" alt="Status" />
 </p>
 
 ---
 
-### 👨‍💻 Men Haqimda
-* 🌱 **14 yoshdaman** va 7 oydan beri veb-dasturlash (Frontend) yo'nalishini chuqur o'rganib kelmoqdaman.
-* 🎓 **Coddycamp** platformasida tahsil olaman va o'z bilimlarimni amaliy loyihalar orqali mustahkamlayapman.
-* 🚀 Asosiy e'tiborim foydalanuvchiga qulay, zamonaviy va estetik interfeyslar yaratishga qaratilgan.
+### 💡 Men Haqimda | About Me
+* 🌐 Assalomu alaykum! Ismim **Abdulloh**, 14 yoshdaman. 
+* 💻 7 oydan beri veb-dasturlash olamiga sho'ng'iganman va **Frontend** yo'nalishini chuqur o'rganib kelmoqdaman.
+* 🎓 **Coddycamp** o'quv markazida o'qib, o'zimning ilk amaliy loyihalarimni yaratib, tajriba to'plamoqdaman.
+* ✨ Maqsadim — foydalanuvchilar uchun qulay, interaktiv va mukammal dizaynga ega veb-ilovalar yaratish.
 
 ---
 
-### 🛠️ Texnologiyalar va Qurollar
+### 🛠️ Texnologiyalar va Ko'nikmalar | Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,git,github,vscode,figma" />
 </p>
 
-- **Markup & Styling:** HTML5, CSS3, Tailwind CSS
-- **Programming Language:** JavaScript (ES6+)
-- **Library & Framework:** React.js
-- **Tools & Environment:** Git, GitHub, VS Code
+| Kategoriya | Texnologiyalar |
+| :--- | :--- |
+| **Markup & Style** | HTML5, CSS3, Tailwind CSS |
+| **Programming** | JavaScript (ES6+) |
+| **Frameworks** | React.js |
+| **Tools & Version Control** | Git, GitHub, VS Code |
 
 ---
 
-### 📊 GitHub Statistikasi
-
+### 📊 GitHub Statistikasi | Github Stats
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Zikrillayev77&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zikrillayev77&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Zikrillayev77&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26&count_private=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zikrillayev77&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26" />
 </p>
 
 <p align="center">
@@ -44,6 +47,15 @@
 
 ---
 
+### 🎧 Hozirgi Kayfiyat va Musiqa
+> *"Code. Sleep. Repeat."* 💻✨
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Kod-bilan-yaratilgan-estetika✨&fontSize=16&fontColor=fff" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zikrillayev77&theme=tokyo-night&hide_border=true&bg_color=1a1b26" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20visiting%20my%20profile!%20✨&fontSize=16&fontColor=fff" />
 </div>
